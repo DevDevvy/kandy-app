@@ -1,0 +1,20 @@
+.list:nth-child(even) {
+    background-color: rgb(203, 252, 244);
+}
+table {
+    border-collapse: collapse;
+    width: 8em;
+}
+.list td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+td th {
+    padding: 3px;
+}
+
+th {
+    background-color: antiquewhite;
+    border: 1px solid black;
+}
